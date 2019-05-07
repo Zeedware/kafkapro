@@ -1,0 +1,10 @@
+[execute]
+  loop = 1
+  input_filename = "input.txt"
+
+[kafka]
+  kay="test"
+  topic="testopic"
+  groupid="group"
+  ip="localhost"
+  port="9092"
