@@ -36,4 +36,4 @@ kafkapro is Kafka Producer simulator tool to help development team to push messa
 - **Kharriz Abiyasa Bhimabrata** - *Initial work* - [Zeedware](https://github.com/Zeedware)
 
 ## License
-this project is licensed under MIT License
+this project is licensed under [MIT License](https://github.com/Zeedware/kafkapro/blob/master/LICENSE)
