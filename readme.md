@@ -1,5 +1,5 @@
 # Kafka Pro(ducer Simulator)
-kafkaprod is Kafka Producer simulator tool to help development team to push messages to kafka.
+kafkapro is Kafka Producer simulator tool to help development team to push messages to kafka.
 
 ### Prerequisites
 - Go v1.12.4
